@@ -2,7 +2,7 @@
 
 Official installers for GhazTech business applications.
 
-**Website:** <https://ghaztech.com> · **Support:** ghaztech@gmail.com
+**Website:** <https://ghaztech.com> · **Support:** ghaztechsolutions@gmail.com
 Ponnamaravathi, Pudukkottai District, Tamil Nadu
 
 ---
@@ -23,7 +23,7 @@ Get-FileHash .\TheFileYouDownloaded.exe -Algorithm SHA256
 ```
 
 If the hash matches the release notes, the file is intact. If it does not, do
-not install it — email ghaztech@gmail.com and tell us.
+not install it — email ghaztechsolutions@gmail.com and tell us.
 
 ## "Windows protected your PC"
 
@@ -40,7 +40,7 @@ one. You can export your data at any time.
 
 ## Support
 
-Write to **ghaztech@gmail.com**. Support goes to the developer who built the
+Write to **ghaztechsolutions@gmail.com**. Support goes to the developer who built the
 software — there is no ticket queue in between.
 
 ---
